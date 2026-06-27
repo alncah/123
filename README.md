@@ -1,1 +1,0 @@
-"# t03n-arquitetura-hexagonal" 
